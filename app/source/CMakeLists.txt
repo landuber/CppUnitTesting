@@ -1,0 +1,5 @@
+include_directories(${PROJECT_SOURCE_DIR}/app/include)
+set(sources main.cpp)
+add_library(TutorialOneLib sample.cpp)
+add_executable(TutorialOne ${sources})
+target_link_libraries(TutorialOne TutorialOneLib)

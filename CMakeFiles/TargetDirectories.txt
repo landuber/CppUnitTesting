@@ -1,0 +1,3 @@
+/Users/landuber/CppLearning/CMake/TutorialOne/app/test/CMakeFiles/TestLib.dir
+/Users/landuber/CppLearning/CMake/TutorialOne/app/source/CMakeFiles/TutorialOne.dir
+/Users/landuber/CppLearning/CMake/TutorialOne/app/source/CMakeFiles/TutorialOneLib.dir
